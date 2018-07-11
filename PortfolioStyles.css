@@ -31,6 +31,10 @@
 
 .color-box-2 {
     background-color: rgb(13, 243, 205);
+    border-style: solid;
+    border-width:thin;
+    border-radius: 25px;
+    margin: 5px;
 }
 
 
